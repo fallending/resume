@@ -1,5 +1,7 @@
 # Resume
 
+[中文](https://github.com/fallending/resume/blob/master/README.md)
+
 ## Contact
 
 - Phone：18616361836
