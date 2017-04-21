@@ -67,7 +67,7 @@
 - Description：Primary School, Junior high school oriented education system providing variety content. 
 - Responsible：For iOS develop and deploy, managing product design, UI design android persons.
 
-## Shanghai Mobim Information Technology Co., Ltd ( 2011-03 ~ 2014年05 )
+## Shanghai Mobim Information Technology Co., Ltd ( 2011-03 ~ 2014-05 )
 
 - Reason for leaving: Career development limited
 
