@@ -29,7 +29,7 @@
 - Description：O2O project integrated offline beauty salon resources and online trading business, Use 3D face detect and hair renew.
 - Responsible：For iOS product design/delelop/deploy. Assisant of backend business interface development.
 
-## Shanghai Fu Wei Education Co., Ltd ( 2016-03 ~ 2014-06 )
+## Shanghai Fu Wei Education Co., Ltd ( 2016-03 ~ 2016-06 )
 
 - Reason for leaving：Captital chain break (Failed and Learn)
 
