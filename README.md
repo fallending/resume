@@ -103,12 +103,12 @@
 
 - iOS：Objective-C/Swift
 - android：java/gradle
-- Cocos2D：C++
+- Cocos2D、音视频多媒体：C/C++
 - 后端：java/sprintMVC/mybatis
-- 前端框架：HTML5/ionic/jquery
-- 数据库相关：MySQL/SQLite
-- 版本管理、自动化部署工具：Svn/Git/Jekins
-- 单元测试：xtest/ocMock/specta
+- 前端框架：HTML5/ionic/jquery/MUI
+- 数据库相关：MySQL/SQLite/Realm
+- 版本管理、自动化部署工具：Svn/Git/Jekins/Jira
+- 单元测试：xtest/ocMock/specta/JUnit
 - 云和开放平台：AWS/微信应用开发/阿里云
 
 ## 致谢
