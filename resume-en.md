@@ -29,15 +29,6 @@
 - Description：O2O project integrated offline beauty salon resources and online trading business, Use 3D face detect and hair renew.
 - Responsible：For iOS product design/delelop/deploy. Assisant of backend business interface development.
 
-## Shanghai Fu Wei Education Co., Ltd ( 2016-03 ~ 2016-06 )
-
-- Reason for leaving：Captital chain break (Failed and Learn)
-
-### Spicy parents project
-
-- Description：Online trading platform of combining education institution/teacher/parents
-- Responsible：For iOS product develop and deploy, Assistant of backend pay service developing. We're small team using lean startup methodology.
-
 ## Shanghai Changing Education Infomation Technology Co., Ltd ( 2015-01 ~ 2016-02 )
 
 - Reason for leaving：Unreasonable organizational structure, then Career development limited
@@ -56,11 +47,6 @@
 
 - Description：Target client is US customers, solve the problem of Labor costs and water wasting on garden/grass watering，provide smart control system, by manual operation, time ticking watering, weather detection.
 - Responsible：For android developing alone.
-
-### Online cake project
-
-- Description：Online cake booking system, serve offline cake stores.
-- Responsible：For iOS developing，Assist of H5 develop (Which running in wechat).
 
 ### English education project (Content provider)
 
